@@ -43,6 +43,15 @@ Feel free to navigate to each exercise folder for detailed instructions on the t
 - [MDN CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
 - [MDN CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions)
 
+## Running on Codesandbox
+1. Open https://codesandbox.io/
+1. Create an account
+1. Create a sanbox and select "import repository"
+1. Click on enable public repositories
+1. Select the repository that you have cloned
+1. In the terminal, run "npm install live-server; npx live-server"
+
+
 
 ## How to Submit
 
