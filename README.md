@@ -50,6 +50,7 @@ Feel free to navigate to each exercise folder for detailed instructions on the t
 1. Click on enable public repositories
 1. Select the repository that you have cloned
 1. In the terminal, run "npm install live-server; npx live-server"
+1. Click on the link that appeared on the terminal
 
 
 
