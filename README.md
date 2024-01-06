@@ -46,7 +46,7 @@ Feel free to navigate to each exercise folder for detailed instructions on the t
 ## Running on Codesandbox
 1. Open [https://codesandbox.io/](https://codesandbox.io/)
 1. Sign in with your github account
-1. Create a sanbox and select "import repository"
+1. Click on the "Create" button on the top right and select "import repository"
 1. Click on enable public repositories
 1. Select the repository that you have cloned
 1. In the terminal, run "npm install live-server; npx live-server"
