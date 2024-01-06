@@ -44,7 +44,7 @@ Feel free to navigate to each exercise folder for detailed instructions on the t
 - [MDN CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions)
 
 ## Running on Codesandbox
-1. Open your open your fork in github, refresh the page, and click on "Sync fork".
+1. Open your open your fork in github, refresh the page, click on "Sync fork", and update branch
 2. Open [https://codesandbox.io/](https://codesandbox.io/)
 1. Sign in with your github account
 1. Click on the "Create" button on the top right and select "import repository"
