@@ -10,7 +10,7 @@ Once you have completed the tasks, save the file and commit your changes. Don't 
 
 ## Useful Links
 
-- [CSS Tricks Media Query Guide](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [CSS Tricks on Common Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [MDN on Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [wev.dev on Media Queries](https://web.dev/learn/design/media-queries?hl=en)
 - [MDN on Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
